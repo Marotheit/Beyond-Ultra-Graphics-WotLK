@@ -1,0 +1,17 @@
+## Interface: 30300
+## Title: Beyond Ultra Graphics
+## Notes: Automatically adjusts console variables to their maximum values to achieve modern graphical settings.
+## Author: Marotheit
+## Version: 1.0
+## SavedVariables: ConsoleVariableOptions
+## OptionalDeps: Ace3
+
+# Libraries
+embeds.xml
+
+# Locale
+Locale\enUS.lua
+
+# AddOn Functions
+BeyondUltraGraphics_Options.lua
+BeyondUltraGraphics.lua
