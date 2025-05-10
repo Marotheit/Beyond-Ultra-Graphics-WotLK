@@ -11,6 +11,7 @@ embeds.xml
 
 # Locale
 Locale\enUS.lua
+Locale\deDE.lua
 
 # AddOn Functions
 BeyondUltraGraphics_Options.lua
