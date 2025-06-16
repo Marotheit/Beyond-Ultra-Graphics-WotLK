@@ -1,8 +1,8 @@
--- Options table for Beyond Ultra Graphics AddOn.
+-- Options table for the Beyond Ultra Graphics AddOn.
 local addonName, addon = ...
 local L = LibStub("AceLocale-3.0"):GetLocale("BeyondUltraGraphics")
 
--- Function to get the options table
+-- Function to get the options table.
 function GetBeyondUltraGraphicsOptions()
 	local options = {
 		name = addonName,
