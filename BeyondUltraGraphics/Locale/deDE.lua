@@ -1,4 +1,5 @@
 local L = LibStub("AceLocale-3.0"):NewLocale("BeyondUltraGraphics", "deDE")
+if not L then return end
 
 -- Beyond Ultra Graphics
 L["Beyond Ultra Graphics"] = "Beyond Ultra Graphics"
